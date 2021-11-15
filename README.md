@@ -17,3 +17,8 @@ validateToken APIs:-
 /loanRequests GET //list of loans assigned to the CRM
 /loanUpdateBM POST //BMs approval for the loans
 /loanListAll GET //list of all the loans
+
+Json files(database):-
+CRM:All CRMs login details
+loanList:Loan list of all the users
+users:Login details of all the registered users
